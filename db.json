@@ -34,6 +34,14 @@
       {
         "definition1": "tobarão"
       }
+    },
+    {
+      "id": 3,
+      "word_forro": "aba",
+      "word_pt":
+      {
+        "definition1": "Tronco de árvore"
+      }
     }
   ]
 }
